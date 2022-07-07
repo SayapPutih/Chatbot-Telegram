@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezza Boby Muhamad
 - 👀 I’m interested in in front end developer and ui ux design
-- 🌱 I’m currently learning css , html, layouting, and view js
+- 🌱 I’m currently learning css , html, layouting, and vue.js
 - 💞️ Contact me in : ezzaboby35@gmail.com 
 
 
